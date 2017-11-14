@@ -15,6 +15,9 @@ body{
 .imagentamañomdio{
   width: 40%auto;
 }
+.imagenpeque{
+  width: 70%;
+}
 .inline-block{
   float: none;
   display: inline-block;
@@ -74,7 +77,7 @@ a{
 .padding-largo{
   padding: 30px 5px;
 }
-.se-gris{
+.se-roja{
   background-color: #9B0000;
 }
 .nolista{
@@ -105,4 +108,10 @@ p {
 }
 .LinksResponsivos {
     word-wrap: break-word;
+}
+.Vollkorn {
+    font-family: 'Vollkorn SC', serif;
+}
+.Razoha {
+  font-family: 'Rozha One', serif;
 }
