@@ -1,0 +1,123 @@
+body{
+  background-color:black;
+  background-image:
+  radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+  radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+  radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  color: white
+}
+.imgrande{
+  width: 100%;
+}
+.imagenbasica {
+  width: 80%;
+}
+.imagenpeque{
+  width: 50%;
+}
+.inline-block{
+  float: none;
+  display: inline-block;
+}
+.quitar-espacio{
+  float: none;
+}
+.textomediano{
+  font-size-adjust: auto: 80px;
+}
+.espacio-abajo{
+  margin-bottom: -100px;
+}
+.topspacebig {
+  margin-top: 15px;
+}
+.quitar-abajo{
+  margin-bottom: -400px;
+}
+.espacio-arriba{
+  margin-top: -30px;
+}
+.anton{
+  font-family: 'Anton', sans-serif;
+}
+
+.ralewey{
+  font-family: 'Raleway', sans-serif;
+}
+.grande{
+  font-size: 20px;
+}
+.letragrande{
+  font-size: 50px;
+}
+.secondfont{
+  font-size: 22px;
+}
+.passion{
+  font-family: 'Passion One', cursive;
+}
+.quicksand{
+  font-family: 'Quicksand', sans-serif;
+}
+.muygrande{
+  font-size: 22px;
+}
+.letragrande2{
+  font-size: 40px;
+}
+a{
+  color: #F4A919;
+}
+.amarillo{
+  color: #F4A919;
+}
+.blancogamer{
+  color: #EDEDED;
+}
+.espacio-derecha{
+  margin-right: 1em;
+}
+.padding-largo{
+  padding: 30px 5px;
+}
+.se-roja{
+  background-color: #9B0000;
+}
+.nolista{
+  margin: 0px;
+  padding: 0px;
+}
+.nolista li{
+  list-style: none;
+}
+.retrso1{
+  -web-kit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.retrso2{
+  -web-kit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  animation-delay: 2s;
+}
+h1 {
+  font-size: 4.9vw;
+}
+h2 {
+  font-size: 3.0vh;
+}
+p {
+  font-size: 1vmin;
+}
+.LinksResponsivos {
+    word-wrap: break-word;
+}
+.Vollkorn {
+    font-family: 'Vollkorn SC', serif;
+}
+.Razoha {
+  font-family: 'Rozha One', serif;
+}
